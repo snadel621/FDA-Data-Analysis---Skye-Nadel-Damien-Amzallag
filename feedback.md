@@ -4,7 +4,7 @@
 - Need to think about how you can check 'state bias'
 
 - Prep: 5
-- Narrative: 5
+- Narrative: 4
 - Plan: 4
 
 *all scores are out of 5
